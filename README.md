@@ -52,7 +52,7 @@ Linux/macOS
 bash
 
 # Clone repository
-git clone https://github.com/Mrx112/Network_Admin_Tool.git
+git clone https://github.com/Mrx112/Network_Admin_Tools.git
 cd NetworkAdminTool
 
 # Install dependencies
