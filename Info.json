@@ -1,0 +1,22 @@
+{
+    "patent_info": {
+        "project_name": "Network Admin Tool",
+        "creation_date": "2025-08-24 21:22:07",
+        "copyright_year": 2025
+    },
+    "creator": {
+        "email": "devilarm207@gmail.com",
+        "nickname": "Mr_112",
+        "github": "github.com/Mrx112",
+        "threads": "ru_all12",
+        "creation_date": "2025-08-24 21:22:07"
+    },
+    "license": {
+        "type": "CC BY-NC 4.0",
+        "url": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "additional_info": {
+        "project_description": "Network Admin Tool adalah aplikasi administrasi jaringan all-in-one untuk scanning, monitoring, remote control, file transfer, script execution, dan manajemen aplikasi. Mendukung ARP & Nmap scan, tabel perangkat interaktif, GUI basic/enhanced, keamanan kredensial, serta cross-platform Linux, macOS, dan Windows.",
+        "generation_tool": "Python Patent Creator v1.0"
+    }
+}

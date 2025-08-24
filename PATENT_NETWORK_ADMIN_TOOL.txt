@@ -1,0 +1,54 @@
+
+================================================================================
+PROJECT PATENT CREATION CERTIFICATE
+================================================================================
+
+PROJECT INFORMATION:
+-------------------
+Project Name: Network Admin Tool
+Creation Date: 2025-08-24 21:22:07
+Description: Network Admin Tool adalah aplikasi administrasi jaringan all-in-one untuk scanning, monitoring, remote control, file transfer, script execution, dan manajemen aplikasi. Mendukung ARP & Nmap scan, tabel perangkat interaktif, GUI basic/enhanced, keamanan kredensial, serta cross-platform Linux, macOS, dan Windows.
+
+CREATOR INFORMATION:
+-------------------
+Email: devilarm207@gmail.com
+Nickname: Mr_112
+GitHub: github.com/Mrx112
+Threads: ru_all12
+
+COPYRIGHT NOTICE:
+----------------
+© 2025 Mr_112. All Rights Reserved.
+
+This project and its contents are protected by copyright law and international
+treaties. Unauthorized reproduction, distribution, or modification of this work
+may result in severe civil and criminal penalties, and will be prosecuted to
+the maximum extent possible under the law.
+
+LICENSE:
+--------
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License. To view a copy of this license, visit:
+http://creativecommons.org/licenses/by-nc/4.0/
+
+PERMISSIONS:
+-----------
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+RESTRICTIONS:
+------------
+- Attribution — You must give appropriate credit to the original author
+- NonCommercial — You may not use the material for commercial purposes
+- No additional restrictions — You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license permits.
+
+DISCLAIMER:
+----------
+This patent creation certificate serves as a declaration of ownership and
+creative rights. For formal legal protection, consider registering with
+appropriate intellectual property offices.
+
+================================================================================
+Generated automatically on: 2025-08-24 21:23:27
+================================================================================
