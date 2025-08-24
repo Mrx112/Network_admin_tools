@@ -21,7 +21,7 @@ Network Admin Tool adalah aplikasi administrasi jaringan yang komprehensif denga
 text
 
 NetworkAdminTool/
-├── src/                    # Source code utama
+├── src/                   # Source code utama
 │   ├── main.py            # Entry point aplikasi
 │   ├── NetworkManager.py  # Manajemen jaringan dasar
 │   ├── DeviceInfo.py      # Informasi perangkat
